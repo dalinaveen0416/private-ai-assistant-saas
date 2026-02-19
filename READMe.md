@@ -57,7 +57,7 @@ private_ai_assistant_saas/
 |
 ├── vectorstore/
 ├── uploads/
-├── streamlit.py
+├── user_interface.py
 ├── schema.sql
 ├── requirements.txt
 └── README.md
