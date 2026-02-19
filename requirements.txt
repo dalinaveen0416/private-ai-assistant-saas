@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-jose
+passlib[bcrypt]
+python-multipart
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+python-dotenv
+hf_xet
+streamlit
